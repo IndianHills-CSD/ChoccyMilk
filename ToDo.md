@@ -9,3 +9,4 @@ The github repo will be created as a new project in android studio.
 BarCode Api, basic
 https://codelabs.developers.google.com/codelabs/bar-codes/#0
 
+a;slkdjfa;lskdjf;alskdj;laksj;lkj
