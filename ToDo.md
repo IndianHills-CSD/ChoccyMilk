@@ -1,4 +1,5 @@
-
+-Edit color schemes
+-Basic colors: https://coolors.co/c8c8c8-8c2f39-f4d35e-216869-08090a
 
 You can directly import github projects into Android Studio. File -> New -> Project from Version Control -> GitHub. Then enter your github username and password.Select the repository and hit clone.
 
@@ -9,5 +10,3 @@ https://docs.google.com/document/d/1FVaNqzEQtON9T3c_RNnwHczwIrZiZf4MtLEAlOA2b8Y/
 
 BarCode Api, basic
 https://codelabs.developers.google.com/codelabs/bar-codes/#0
-
-a;slkdjfa;lskdjf;alskdj;laksj;lkj
